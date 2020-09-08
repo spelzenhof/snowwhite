@@ -5,7 +5,7 @@ Description: Snow White is a Child Theme based on Baylys by Elmastudio
 Author: Neulicht
 Author URI: http://www.neulicht.de/
 Template: baylys
-Version: 1.0
+Version: 1.1
 Tags: Baylys Child Theme
 */
 
@@ -74,6 +74,12 @@ position:absolute;
 img.wp-post-image
 {
 	margin-bottom:20px;
+}
+
+/* Blog Post Margin Top */
+.single-post .entry-content
+{
+	margin-top:30px;
 }
 
 /* Gallery Abstand verringern */
