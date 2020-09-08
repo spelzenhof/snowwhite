@@ -13,6 +13,8 @@ The Child Theme Snow White refers the [Baylys Chaplin](https://www.elmastudio.de
 * Header
 * Image
 * Portfolio
+* Single Post
+* Content Single
 
 ## Installation
 
@@ -35,6 +37,11 @@ Commits to Master Branch will be deployed to the productive environment with Git
 This project is licensed under the GPL3 License.
 
 ## Changelog
+
+### 1.1
+
+* Removed: Styles wpShopGermany
+* Added: Custom Single Post Template
 
 ### 1.0
 
