@@ -4,7 +4,7 @@ Snow White is a Baylys Child Theme formerly running on [www.spelzenhof.com](http
 
 ## Description 
 
-The Child Theme Snow White refers the [Baylys Chaplin](https://www.elmastudio.de/wordpress-themes/baylys/) by [Elmastudio](https://www.elmastudio.de). It's created specially for [spelzenhof.com](https://www.spelzenhof.com/).
+The Child Theme Snow White refers the [Baylys Chaplin](https://www.elmastudio.de/wordpress-themes/baylys/) by [Elmastudio](https://www.elmastudio.de). It was created specially for [spelzenhof.com](https://www.spelzenhof.com/).
 
 ## Modified Templates
 
