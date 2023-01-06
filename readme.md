@@ -1,6 +1,6 @@
 # Snow White
 
-Snow White is the Baylys Child Theme running on [www.spelzenhof.com](https://www.spelzenhof.com/).
+Snow White is a Baylys Child Theme formerly running on [www.spelzenhof.com](https://www.spelzenhof.com/).
 
 ## Description 
 
@@ -23,10 +23,6 @@ The Child Theme Snow White refers the [Baylys Chaplin](https://www.elmastudio.de
 ## Workflow
 
 This repository follows the Git Flow Workflow.
-
-## Continuous Deployment
-
-Commits to Master Branch will be deployed to the productive environment with GitHub Actions automaticly. Commits to the Develop Branch will be deployed to the staging environment with the same procedures.
 
 ## Built With
 
